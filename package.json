@@ -1,0 +1,16 @@
+{
+  "name": "Acloud - Basic bot with a status",
+  "version": "1.0.0",
+  "description": "Basic Discord bot with a command to add a bot status and test command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Aaran#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
