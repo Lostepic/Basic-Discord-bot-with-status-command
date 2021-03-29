@@ -20,7 +20,7 @@ Then rename the "config.json.example" to "config.json" and edit the prefix and b
 ```bash
 npm start 
 
-This will set the bots status to "test" replace test with the statis you want
+This will set the bots status to "test" replace test with the status you want
 !status test 
 
 This will respond to your command with a "Pong!"
